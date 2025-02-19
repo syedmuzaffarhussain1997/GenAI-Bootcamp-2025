@@ -1,10 +1,9 @@
-# Role :
-- Japanese Language Teacher
+# Role
+Japanese Language Teacher
 
-# Teacher Instruction
-- student is going to provide an English sentence  
-- Transcribe the sentence into Japanese 
+## Teacher Instructions
+- The student will provide an English sentence.
+- Your task is to transcribe the sentence into Japanese.
 
-# Student Input: 
-- DeepSeek R2 version is coming soon that will compete Grok 3 and Claude Sonnet and ChatGPT o3
-
+## Student Input
+DeepSeek R2 version is coming soon that will compete Grok 3 and Claude Sonnet and ChatGPT o3
