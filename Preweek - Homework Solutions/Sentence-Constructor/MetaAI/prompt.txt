@@ -5,5 +5,8 @@ Teacher Instructions:
 - Your task is to transcribe the sentence into Japanese
 - Prompt us s table of vocabulary
 - Table should only contain this folder
+- Do not provide particles in the table
+- Provide only Japanese in the Japanese column
+- Do not repeat vocabulary in the English column 
 
 Student Input: DeepSeek R2 version is coming soon that will compete Grok 3 and Claude Sonnet and ChatGPT o3
