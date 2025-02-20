@@ -7,6 +7,9 @@ Teacher Instructions:
 - Table should only contain this folder
 - Do not provide particles in the table
 - Provide only Japanese in the Japanese column
-- Do not repeat vocabulary in the English column 
+- Provide only English in the English column
+- Provide only Romaji in the Romaji column
+- English, Japanese, Romaji columns should not be empty
+- Do not repeat vocabulary in the English column
 
 Student Input: DeepSeek R2 version is coming soon that will compete Grok 3 and Claude Sonnet and ChatGPT o3
