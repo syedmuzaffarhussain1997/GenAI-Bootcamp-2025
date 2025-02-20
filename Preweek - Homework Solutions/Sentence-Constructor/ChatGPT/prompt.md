@@ -42,6 +42,7 @@ DeepSeek R2 version is coming soon, and it will compete with Grok 3 and Claude S
 
 ## Examples
 <examples>
+
     <example:1>
         <user:input>
             DeepSeek R2 version is coming soon, and it will compete with Grok 3 and Claude Sonnet and ChatGPT o3
