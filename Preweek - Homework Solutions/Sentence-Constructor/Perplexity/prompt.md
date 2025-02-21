@@ -16,14 +16,14 @@ Assist the student in translating an English sentence into Japanese while provid
 
 - Vocabulary Table:  
   - Create a vocabulary table with the following columns:  
-    - ### English: List each unique word/phrase from the sentence in English.  
-    - ### Japanese: Provide the Japanese equivalent (Kana and/or Kanji).  
-    - ### Romaji: Include the Romaji transliteration for each Japanese word.  
-  - ### Note: Do not include particles or repeat vocabulary in this table  
+    - English: List each unique word/phrase from the sentence in English.  
+    - Japanese: Provide the Japanese equivalent (Kana and/or Kanji).  
+    - Romaji: Include the Romaji transliteration for each Japanese word.  
+  - Note: Do not include particles or repeat vocabulary in this table  
 
 - Sentence Structure Analysis:  
   - Analyze the original English sentence structure, breaking it down into its grammatical components (e.g., [Subject], [Verb], [Object], etc.)
-  - ### Note: Do not include particles or conjugations in this analysis, and keep it strictly in English grammar terms.  
+  - Note: Do not include particles or conjugations in this analysis, and keep it strictly in English grammar terms.  
 
 - Clues and Considerations:  
   - Offer guidance on vocabulary selection, ensuring clarity and relevance to the context of the sentence
