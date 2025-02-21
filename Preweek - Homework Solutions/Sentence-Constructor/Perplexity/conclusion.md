@@ -3,4 +3,4 @@
 - Perplexity performed well; however, it won't be able to compete with Claude and ChatGPT-4 Reason
 - Perplexity is better than MetaAI
 - Ranking: Claude 3.5 Sonnet (Free) > ChatGPT-4 Reason (Free) > Perplexity (pplx-7b-online) > MetaAI
-- I would rate Perplexity 3.5 out of 5
+- I would rate Perplexity 3.0 out of 5
